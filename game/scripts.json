@@ -1,0 +1,88 @@
+{
+  "jsList": [
+
+    "src/core/libs/lodash.js",
+
+    "src/core/framework/macros.js",
+    "src/core/framework/engine.js",
+    "src/core/framework/defines.js",
+    "src/core/framework/polyfill.js",
+
+    "src/core/asset/asset_manager.js",
+    "src/core/asset/resource_loader.js",
+    "src/core/asset/animation_loader.js",
+
+    "src/core/jsb/jsb_portal_event_manager.js",
+    "src/core/jsb/jsb_portal_download.js",
+    "src/core/jsb/jsb_gps_payment.js",
+    "src/core/jsb/jsb_ads_manager.js",
+
+    "src/core/pool/data_pool.js",
+    "src/core/pool/node_pool.js",
+
+    "src/core/utils/app_utils.js",
+    "src/core/utils/type_utils.js",
+    "src/core/utils/node_utils.js",
+    "src/core/utils/math_utils.js",
+    "src/core/utils/string_utils.js",
+
+    "src/core/sound/sound_helper.js",
+    "src/core/sound/sound_manager.js",
+
+    "src/core/components/popups/popup_base.js",
+    "src/core/components/popups/popup_alert.js",
+    "src/core/components/popups/popup_loading.js",
+    "src/core/components/widgets/progress_bar.js",
+
+    "src/game/common/resources.js",
+
+    "src/game/scenes/landing_page.js",
+    "src/game/scenes/main_game.js",
+
+    "src/game/data/levels.js",
+
+    "src/game/components/game_logo/logo_langding_page.js",
+    "src/game/components/game_logo/logo_main_game.js",
+    "src/game/components/game_background/main_game_bg.js",
+
+    "src/game/components/game_button/button_challenge.js",
+    "src/game/components/game_button/button_feedback.js",
+    "src/game/components/game_button/button_home.js",
+    "src/game/components/game_button/button_mini_game.js",
+    "src/game/components/game_button/button_more_game.js",
+    "src/game/components/game_button/button_music.js",
+    "src/game/components/game_button/button_play.js",
+    "src/game/components/game_button/button_sound.js",
+    "src/game/components/game_button/button_store.js",
+    "src/game/components/game_button/button_another_chance.js",
+    "src/game/components/game_button/button_restart.js",
+    "src/game/components/game_button/button_icon_restart.js",
+    "src/game/components/game_button/button_icon_next.js",
+    "src/game/components/game_button/button_icon_list.js",
+
+    "src/game/components/game_button/button_game_ball_sort.js",
+    "src/game/components/game_button/button_game_move_block.js",
+    "src/game/components/game_button/button_game_tile_slide.js",
+
+    "src/game/components/game_label/label_popup_lose.js",
+    "src/game/components/game_label/label_chapter.js",
+    "src/game/components/game_label/label_levels.js",
+
+    "src/game/components/mini_game_board/mini_game_board.js",
+
+    "src/game/components/popup_game/popup_game_lose.js",
+    "src/game/components/popup_game/popup_game_win.js",
+    "src/game/components/popup_game/popup_main_game.js",
+
+    "src/game/components/sprite/leaf_sprite.js",
+    "src/game/components/sprite/mask_dark.js",
+    "src/game/components/sprite/lb_box.js",
+    "src/game/components/sprite/chest.js",
+    "src/game/components/sprite/progress.js",
+
+    "src/game/components/tile/tile_manager.js",
+
+    "src/game/components/storage_tray/storage_tray.js"
+    
+  ]
+}

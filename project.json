@@ -1,0 +1,77 @@
+{
+    "project_type": "javascript",
+    "debugMode": 1,
+    "showFPS": false,
+    "frameRate": 60,
+    "noCache": true,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d",
+        "external",
+        "extensions"
+    ],
+    "jsListOrder": [],
+    "jsList": [
+        
+        "game/src/core/libs/lodash.js",
+
+        "game/src/core/framework/macros.js",
+        "game/src/core/framework/engine.js",
+        "game/src/core/framework/defines.js",
+        "game/src/core/framework/polyfill.js",
+    
+        "game/src/core/asset/asset_manager.js",
+        "game/src/core/asset/resource_loader.js",
+        "game/src/core/asset/animation_loader.js",
+    
+        "game/src/core/jsb/jsb_portal_event_manager.js",
+        "game/src/core/jsb/jsb_portal_download.js",
+        "game/src/core/jsb/jsb_gps_payment.js",
+        "game/src/core/jsb/jsb_ads_manager.js",
+    
+        "game/src/core/pool/data_pool.js",
+        "game/src/core/pool/node_pool.js",
+    
+        "game/src/core/utils/app_utils.js",
+        "game/src/core/utils/type_utils.js",
+        "game/src/core/utils/node_utils.js",
+        "game/src/core/utils/math_utils.js",
+        "game/src/core/utils/string_utils.js",
+    
+        "game/src/core/sound/sound_helper.js",
+        "game/src/core/sound/sound_manager.js",
+    
+        "game/src/core/components/popups/popup_base.js",
+        "game/src/core/components/popups/popup_alert.js",
+        "game/src/core/components/popups/popup_loading.js",
+        "game/src/core/components/widgets/progress_bar.js",
+    
+        "game/src/game/common/resources.js",
+
+        "game/src/game/scenes/landing_page.js",
+        "game/src/game/scenes/main_game.js",
+
+        "game/src/game/components/game_logo/logo_langding_page.js",
+        "game/src/game/components/game_logo/logo_main_game.js",
+        "game/src/game/components/game_background/main_game_bg.js",
+
+        "game/src/game/components/game_button/button_challenge.js",
+        "game/src/game/components/game_button/button_feedback.js",
+        "game/src/game/components/game_button/button_home.js",
+        "game/src/game/components/game_button/button_mini_game.js",
+        "game/src/game/components/game_button/button_more_game.js",
+        "game/src/game/components/game_button/button_music.js",
+        "game/src/game/components/game_button/button_play.js",
+        "game/src/game/components/game_button/button_sound.js",
+        "game/src/game/components/game_button/button_store.js",
+
+        "game/src/game/components/sprite/leaf_sprite.js",
+
+        "game/src/game/components/tile/tile_manager.js",
+
+        "game/src/game/components/storage_tray/storage_tray.js"
+
+    ]
+}
